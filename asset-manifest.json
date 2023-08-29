@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DummyAPI-ReactApp/static/css/main.f2c8df43.css",
+    "main.js": "/DummyAPI-ReactApp/static/js/main.10480b2f.js",
+    "static/js/787.081ee1a1.chunk.js": "/DummyAPI-ReactApp/static/js/787.081ee1a1.chunk.js",
+    "static/media/instagram.svg": "/DummyAPI-ReactApp/static/media/instagram.ea97f30da684359a8ea3e1bee509ed63.svg",
+    "static/media/github.svg": "/DummyAPI-ReactApp/static/media/github.f7e3ade96512be4618b75af62358f5d2.svg",
+    "static/media/linkedin.svg": "/DummyAPI-ReactApp/static/media/linkedin.eb342e4dfc24b60c46c8e14d96223ca4.svg",
+    "index.html": "/DummyAPI-ReactApp/index.html",
+    "static/media/fb.svg": "/DummyAPI-ReactApp/static/media/fb.359265ba000a616e171a0d5fd1ff323e.svg",
+    "main.f2c8df43.css.map": "/DummyAPI-ReactApp/static/css/main.f2c8df43.css.map",
+    "main.10480b2f.js.map": "/DummyAPI-ReactApp/static/js/main.10480b2f.js.map",
+    "787.081ee1a1.chunk.js.map": "/DummyAPI-ReactApp/static/js/787.081ee1a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c8df43.css",
+    "static/js/main.10480b2f.js"
+  ]
+}
