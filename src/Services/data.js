@@ -1,3 +1,9 @@
+import image1 from "../assests/Media/image1.jpg";
+import image2 from "../assests/Media/image2.jpg";
+import image3 from "../assests/Media/image3.jpg";
+import image4 from "../assests/Media/image4.png";
+import star from "../assests/Media/star.png";
+
 export const data = [
   {
     id: 1,
@@ -5,8 +11,8 @@ export const data = [
     description:
       'I will share with you what I call "Positively Impactful Moments of Disappointment." Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.',
     price: 136,
-    coverImg: "../../Media/image1.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image1,
+    starImg: star,
     stats: {
       rating: 5.0,
       reviewCount: 6,
@@ -20,8 +26,8 @@ export const data = [
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
     price: 125,
-    coverImg: "../../Media/wedding-photography.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image2,
+    starImg: star,
     stats: {
       rating: 5.0,
       reviewCount: 30,
@@ -35,8 +41,8 @@ export const data = [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../../Media/mountain-bike.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image3,
+    starImg: star,
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -50,8 +56,8 @@ export const data = [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../../Media/image1.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image4,
+    starImg: star,
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -65,8 +71,8 @@ export const data = [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../../Media/wedding-photography.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image1,
+    starImg: star,
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -80,8 +86,8 @@ export const data = [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../../Media/mountain-bike.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image2,
+    starImg: star,
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -95,8 +101,8 @@ export const data = [
     description:
       'I will share with you what I call "Positively Impactful Moments of Disappointment." Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.',
     price: 136,
-    coverImg: "../../Media/image1.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image3,
+    starImg: star,
     stats: {
       rating: 5.0,
       reviewCount: 6,
@@ -110,8 +116,8 @@ export const data = [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../../Media/wedding-photography.jpg",
-    starImg: "../../Media/star.png",
+    coverImg: image4,
+    starImg: star,
     stats: {
       rating: 4.8,
       reviewCount: 2,
