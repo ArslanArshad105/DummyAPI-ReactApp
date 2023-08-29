@@ -3,7 +3,7 @@ import { Col, Container } from "react-bootstrap";
 
 const Card = (props) => {
   return (
-    <Col className="card--container" xs={12} md={3}>
+    <Col className="card--container" xs={12} sm={6} md={6} lg={4} xl={3}>
       <img src={props.crdimg} alt="ImageCard" className="cardimg" />
 
       <Container className="cardstats">

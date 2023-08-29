@@ -1,5 +1,6 @@
 import React, { Fragment, useEffect, useState } from "react";
 import { Row, Container, Navbar, Button, Col } from "react-bootstrap";
+import AirbnbLogo from "../../assests/Media/Airbnb_logo.png";
 import Heroimg from "../AirbnbPage/Heroimg";
 import Card from "../AirbnbPage/Card";
 import Card2 from "../AirbnbPage/Card2";
@@ -69,7 +70,7 @@ const Airbnb = () => {
     <>
       <Navbar className="Airbnbnav">
         <Navbar.Brand className="Airbnblogo">
-          <img src="../../Media/Airbnb_logo.png" alt="Airbnb Logo" />
+          <img src={AirbnbLogo} alt="Airbnb Logo" />
         </Navbar.Brand>
       </Navbar>
 

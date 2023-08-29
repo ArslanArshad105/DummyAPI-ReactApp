@@ -95,7 +95,7 @@ const Footer = () => {
         <Col xs={12} sm={12} md={3} lg={3}>
           <h4 style={{ color: "#ffffff" }}>Contact</h4>
           <Row>
-            <p>
+            <p style={{ color: "#ffffff" }}>
               <FontAwesomeIcon icon={faHome} className="font-Icon" /> Lahore,
               Pakistan
             </p>
