@@ -1,19 +1,24 @@
 {
   "files": {
     "main.css": "/DummyAPI-ReactApp/static/css/main.f2c8df43.css",
-    "main.js": "/DummyAPI-ReactApp/static/js/main.10480b2f.js",
+    "main.js": "/DummyAPI-ReactApp/static/js/main.1df23a1f.js",
     "static/js/787.081ee1a1.chunk.js": "/DummyAPI-ReactApp/static/js/787.081ee1a1.chunk.js",
+    "static/media/Heroimage.png": "/DummyAPI-ReactApp/static/media/Heroimage.fe27b1a6f00b0250552d.png",
+    "static/media/image1.jpg": "/DummyAPI-ReactApp/static/media/image1.88a0449d960274e103a9.jpg",
+    "static/media/image3.jpg": "/DummyAPI-ReactApp/static/media/image3.4c67e01a34f26ecb6a01.jpg",
+    "static/media/image2.jpg": "/DummyAPI-ReactApp/static/media/image2.6b82d7bdab84993476cc.jpg",
+    "static/media/image4.png": "/DummyAPI-ReactApp/static/media/image4.73228171bc4d2d88f962.png",
     "static/media/instagram.svg": "/DummyAPI-ReactApp/static/media/instagram.ea97f30da684359a8ea3e1bee509ed63.svg",
     "static/media/github.svg": "/DummyAPI-ReactApp/static/media/github.f7e3ade96512be4618b75af62358f5d2.svg",
     "static/media/linkedin.svg": "/DummyAPI-ReactApp/static/media/linkedin.eb342e4dfc24b60c46c8e14d96223ca4.svg",
     "index.html": "/DummyAPI-ReactApp/index.html",
     "static/media/fb.svg": "/DummyAPI-ReactApp/static/media/fb.359265ba000a616e171a0d5fd1ff323e.svg",
     "main.f2c8df43.css.map": "/DummyAPI-ReactApp/static/css/main.f2c8df43.css.map",
-    "main.10480b2f.js.map": "/DummyAPI-ReactApp/static/js/main.10480b2f.js.map",
+    "main.1df23a1f.js.map": "/DummyAPI-ReactApp/static/js/main.1df23a1f.js.map",
     "787.081ee1a1.chunk.js.map": "/DummyAPI-ReactApp/static/js/787.081ee1a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c8df43.css",
-    "static/js/main.10480b2f.js"
+    "static/js/main.1df23a1f.js"
   ]
 }
